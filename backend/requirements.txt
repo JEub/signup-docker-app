@@ -1,0 +1,6 @@
+fastapi[all]
+motor
+dnspython
+uvicorn
+python-decouple
+pydantic[email, typing_extensions]
