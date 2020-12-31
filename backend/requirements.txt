@@ -4,3 +4,5 @@ dnspython
 uvicorn
 python-decouple
 pydantic[email, typing_extensions]
+pytest
+pytest-cov
